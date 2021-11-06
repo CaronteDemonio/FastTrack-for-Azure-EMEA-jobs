@@ -1,8 +1,6 @@
-# FastTrack for Azure
+# EMEA open positions
 
-## EMEA open positions
-
-### Infra
+## Infra
 
 | Role | Progress | Region | Posting |
 |:---------:|:-------------------:|:-----:|:-----:|
@@ -13,7 +11,7 @@
 | Senior Customer Engineer - AVS    |Open        |UK, Germany & France  |link will come soon |
 
 
-### Data & AI
+## Data & AI
 
 | Role | Progress | Region | Posting |
 |:---------:|:-------------------:|:-----:|:-----:|
@@ -24,15 +22,14 @@
 | Senior Customer Engineering Manager - Data |Open        |EMEA  |   [link](https://careers.microsoft.com/us/en/job/1185964/Senior-Engineering-Manager-Azure-Data-Analytics-AI) |
 
 
-### AppDev
+## AppDev
 
 | Role | Progress | Region | Posting |
 |:---------:|:-------------------:|:-----:|:-----:|
 | Senior Customer Engineer - Apps    |Open        |EMEA  |  [link](https://careers.microsoft.com/us/en/job/1187817/Senior-Customer-Engineer-Apps-FastTrack-for-Azure-FTA) |
 | Principal Engineering Manager - Apps    | Open        |Israel  |   [link](https://careers.microsoft.com/us/en/job/1129670/Principal-Engineering-Manager-FastTrack-for-Azure-FTA) |
 
-### PM
-
+## PM
 
 | Role | Progress | Region | Posting |
 |:---------:|:-------------------:|:-----:|:-----:|
