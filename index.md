@@ -35,6 +35,7 @@
 |:---------:|:-------------------:|:-----:|:-----:|
 | PM    | Open        |EMEA  |  [link](https://careers.microsoft.com/us/en/job/1182904/Senior-Cloud-Advisor) |
 | PM    | Open        | Israel only | [link](https://careers.microsoft.com/us/en/job/1183141/Senior-Program-Manager-FastTrack-for-Azure) |
+| PM    | Open        | UAE only    ! [link](https://careers.microsoft.com/i/us/en/job/1190401/Senior-Program-Manager-FastTrack)    |
 
 
 <!--
